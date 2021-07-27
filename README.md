@@ -1,4 +1,4 @@
-# Fundamentos Inteligencia Artificial
+# Fundamentos Inteligencia Artificial 1
 
 Trabalho Prático 1 da cadeira FIA/IIA LEI UC 2020/2021
 
